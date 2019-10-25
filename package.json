@@ -1,6 +1,6 @@
 {
   "name": "node-zookeeper-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于node-zookeeper-client实现node服务发现",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/hubvue/node-zookeeper-service.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "node.js",
+    "zookeeper",
+    "service",
+    "service discovery"
+  ],
+  "author": "kim",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hubvue/node-zookeeper-service/issues"
