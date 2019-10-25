@@ -1,6 +1,6 @@
 {
   "name": "node-zookeeper-service",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于node-zookeeper-client实现node服务发现",
   "main": "index.js",
   "scripts": {
